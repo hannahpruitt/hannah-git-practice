@@ -1,0 +1,3 @@
+Hannah's git practice
+By Hannah Pruitt, Intro to Coding for Journalists Class
+This repo is a class assignment the learn git, it is due...
